@@ -1,0 +1,14 @@
+C:\projetos\Curso C#\Classe_classe\Classe_classe\bin\Debug\Classe_classe.exe.config
+C:\projetos\Curso C#\Classe_classe\Classe_classe\bin\Debug\Classe_classe.exe
+C:\projetos\Curso C#\Classe_classe\Classe_classe\bin\Debug\Classe_classe.pdb
+C:\projetos\Curso C#\Classe_classe\Classe_classe\obj\Debug\Classe_classe.csprojAssemblyReference.cache
+C:\projetos\Curso C#\Classe_classe\Classe_classe\obj\Debug\Classe_classe.csproj.CoreCompileInputs.cache
+C:\projetos\Curso C#\Classe_classe\Classe_classe\obj\Debug\Classe_classe.exe
+C:\projetos\Curso C#\Classe_classe\Classe_classe\obj\Debug\Classe_classe.pdb
+C:\Users\Lazari\source\repos\MeuRepository\Classe_classe\Classe_classe\bin\Debug\Classe_classe.exe.config
+C:\Users\Lazari\source\repos\MeuRepository\Classe_classe\Classe_classe\bin\Debug\Classe_classe.exe
+C:\Users\Lazari\source\repos\MeuRepository\Classe_classe\Classe_classe\bin\Debug\Classe_classe.pdb
+C:\Users\Lazari\source\repos\MeuRepository\Classe_classe\Classe_classe\obj\Debug\Classe_classe.csprojAssemblyReference.cache
+C:\Users\Lazari\source\repos\MeuRepository\Classe_classe\Classe_classe\obj\Debug\Classe_classe.csproj.CoreCompileInputs.cache
+C:\Users\Lazari\source\repos\MeuRepository\Classe_classe\Classe_classe\obj\Debug\Classe_classe.exe
+C:\Users\Lazari\source\repos\MeuRepository\Classe_classe\Classe_classe\obj\Debug\Classe_classe.pdb
